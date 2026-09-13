@@ -5,7 +5,7 @@
 
 ### Interactive Jupyter Notebooks for Learning Biomedical Data
 
-A beginner-friendly collection of hands-on lessons covering **genomics**, **epigenetics**, **transcriptomics**, **proteomics**, **clinical data**, **wearable data**, **medical imaging**, **LLMs in bioinformatics**, and **security and privacy** — written as executable Jupyter notebooks from Stanford Data Ocean (SDO).
+A beginner-friendly collection of hands-on lessons covering **genomics**, **epigenetics**, **transcriptomics**, **proteomics**, **clinical data**, **wearable data**, **medical imaging**, **LLMs in bioinformatics**, and **security and privacy** — written as executable Jupyter notebooks.
 
 <br>
 
@@ -62,7 +62,7 @@ The core path has seven lessons: genomic variants, epigenetic marks, RNA express
 
 Each notebook includes short explanations, sample datasets, and runnable analysis steps so you can learn by doing, not only by reading.
 
-> **Tagline:** *A practical bioinformatics learning repository from Stanford Data Ocean (SDO), covering genomic, epigenetic, transcriptomic, proteomic, clinical, wearable, and imaging data through interactive Jupyter Notebooks.*
+> **Tagline:** *A practical bioinformatics repository, covering genomic, epigenetic, transcriptomic, proteomic, clinical, wearable, and imaging data through interactive Jupyter Notebooks.*
 
 ---
 
