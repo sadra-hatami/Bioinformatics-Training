@@ -1,6 +1,6 @@
 <div align="center">
 
-# Introduction to Bioinformatics
+# Bioinformatics Training
 # 🧬📘✨
 
 ### Interactive Jupyter Notebooks for Learning Biomedical Data
